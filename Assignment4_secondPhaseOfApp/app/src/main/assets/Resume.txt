@@ -1,0 +1,27 @@
+Name Zhipeng Sun
+Telephone: +1-857-265-4312-
+E-mail： tigersunzp@gmail.com
+Address: 141 john st. Lowell
+Ma, 01852 
+P. R. U.S.A
+
+Educational Background 
+D09/2016 -12/2020   UMass Lowell 	Computer Science   Undergraduate Degree	    Top %
+
+Activities 
+
+2020 Spring Artificial Intelligence， Python， Mainly responsible for the overall design of the program, the procedures involved in the relevant technical data collection and collation, the preparation of relevant documents.
+2020 Summer GUI Programming HTML, CSS, JavaScript,and create basic format of scrabble slots,word and score place remain, letter tile and rack place remain, reset button with click function.
+2020 Translation:  Using C and OCaml language to implement a complete compiler for the extended version of the calculator language , again with if and do/ check statements
+2020 Comparing Languages: Solved the Cartesian product in each of five different programing
+landuages that Ada, Haskell, Rust, Python, Prolog, then compared the
+difficulty level and speed of each language.
+2020 Mobile App, Mainly responsible of the development of the program, including the development of the development environment, the development of the program interface and the development of related functions.
+
+Awards 
+Umass basketball match
+                         
+Skills and Hobbies
+basketball
+play piano
+photography
